@@ -1,0 +1,2 @@
+﻿  test.c
+C:\比特学习文件夹\test_0509\test_0509\test.c(28,19): error C2297: “%”: 非法，右操作数包含“double”类型
